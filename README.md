@@ -8,7 +8,7 @@ This README provides instructions on how to set up and run the yerde-driver-ai p
 # Installation
 1. **Clone the Repository:**
     ```Bash
-    git clone https://github.com/Terra-Yazilim-Ar-Ge/yerlem-driver-ai.git
+    git clone https://github.com/eyupkaganeyupoglu/staj-proje.git
     ```
 1. **Create a Virtual Environment:**
     ```Bash
