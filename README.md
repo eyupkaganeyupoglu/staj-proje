@@ -15,11 +15,11 @@ This README provides instructions on how to set up and run the yerde-driver-ai p
     python -m venv venv_name
     ```
 2. **Activate the Virtual Environment:**
-   1. **Windows:**
+   - **Windows:**
     ```Bash
     venv\Scripts\activate
     ```
-   2. **Linux/macOS:**
+   - **Linux/macOS:**
     ```Bash
     source venv/bin/activate
     ```
