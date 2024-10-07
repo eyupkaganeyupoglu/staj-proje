@@ -1,10 +1,10 @@
 import cv2
-from yerlem_driver_ai.camera_utils import CameraUtils
-from yerlem_driver_ai.file_operation_utils import FileOperationUtils
-from yerlem_driver_ai.mediapipe_utils import MediaPipeUtils
-from yerlem_driver_ai.feature_extractor_utils import FeatureExtractor
-# from yerlem_driver_ai.drawing_utils import DrawingUtils
-from yerlem_driver_ai.models_utils import Models
+from yerlem_driver_ai.Utils.camera_utils import CameraUtils
+from yerlem_driver_ai.Utils.file_operation_utils import FileOperationUtils
+from yerlem_driver_ai.Utils.mediapipe_utils import MediaPipeUtils
+from yerlem_driver_ai.Utils.feature_extractor_utils import FeatureExtractor
+# from yerlem_driver_ai.Utils.drawing_utils import DrawingUtils
+from yerlem_driver_ai.Utils.models_utils import Models
 
 class Application:
     def __init__(self):
