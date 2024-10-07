@@ -29,9 +29,9 @@ This README provides instructions on how to set up and run the yerde-driver-ai p
     ```
 
 # Running the Project
-1.  **Navigate to the Project Directory:**
+1.  **Make Sure the Project Directory is Correct:**
     ```Bash
-    cd yerlem-driver-ai
+    cd staj-proje
     ```
 2. **Execute the Run Script:**
     ```Bash
